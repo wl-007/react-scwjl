@@ -10,6 +10,7 @@ coverage
 .doc
 .DS_Store
 .umi
+.dumi
 .umi-production
 page
 lerna-debug.log
